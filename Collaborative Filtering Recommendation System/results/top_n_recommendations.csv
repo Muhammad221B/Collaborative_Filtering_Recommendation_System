@@ -1,0 +1,36 @@
+user_id,model_type,movie_id,title,predicted_rating
+1,item_based,1414,Coldblooded (1995),4.533333333333333
+1,item_based,1156,Cyclo (1995),4.5
+1,item_based,1472,"Visitors, The (Visiteurs, Les) (1993)",4.466666666666667
+1,item_based,1654,Chairman of the Board (1998),4.333333333333333
+1,item_based,868,Hearts and Minds (1996),4.275
+1,user_based,814,"Great Day in Harlem, A (1994)",5.0
+1,user_based,1122,They Made Me a Criminal (1939),5.0
+1,user_based,1201,Marlene Dietrich: Shadow and Light (1996) ,5.0
+1,user_based,1293,Star Kid (1997),5.0
+1,user_based,1467,"Saint of Fort Washington, The (1993)",5.0
+1,item_based,1414,Coldblooded (1995),4.533333333333333
+1,item_based,1156,Cyclo (1995),4.5
+1,item_based,1472,"Visitors, The (Visiteurs, Les) (1993)",4.466666666666667
+1,item_based,1654,Chairman of the Board (1998),4.333333333333333
+1,item_based,868,Hearts and Minds (1996),4.275
+2,user_based,814,"Great Day in Harlem, A (1994)",5.0
+2,user_based,1122,They Made Me a Criminal (1939),5.0
+2,user_based,1189,Prefontaine (1997),5.0
+2,user_based,1201,Marlene Dietrich: Shadow and Light (1996) ,5.0
+2,user_based,1467,"Saint of Fort Washington, The (1993)",5.0
+2,item_based,600,Daniel Defoe's Robinson Crusoe (1996),4.666666666666667
+2,item_based,1674,Mamma Roma (1962),4.571428571428571
+2,item_based,442,"Amityville Curse, The (1990)",4.5
+2,item_based,1122,They Made Me a Criminal (1939),4.5
+2,item_based,1619,All Things Fair (1996),4.5
+3,user_based,814,"Great Day in Harlem, A (1994)",5.0
+3,user_based,1122,They Made Me a Criminal (1939),5.0
+3,user_based,1189,Prefontaine (1997),5.0
+3,user_based,1201,Marlene Dietrich: Shadow and Light (1996) ,5.0
+3,user_based,1293,Star Kid (1997),5.0
+3,item_based,442,"Amityville Curse, The (1990)",4.0
+3,item_based,1122,They Made Me a Criminal (1939),4.0
+3,item_based,1309,"Very Natural Thing, A (1974)",4.0
+3,item_based,1622,"Paris, France (1993)",3.7142857142857144
+3,item_based,1414,Coldblooded (1995),3.6666666666666665
